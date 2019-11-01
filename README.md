@@ -6,6 +6,7 @@ Source code for ArcGIS Workflow Manager JavaScript viewer - Manage your workflow
 [View it live](http://workflowsample.esri.com/js/)
 
 ![App](https://raw.github.com/Esri/workflowmanager-viewer-js/master/workflowmanager-viewer-js.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fworkflowmanager-viewer-js_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fworkflowmanager-viewer-js_test?ref=badge_shield)
 
 ## Features
 * Ready-to-deploy GIS web client workflow manager application for ArcGIS Server.
@@ -80,3 +81,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 A copy of the license is available in the repository's [license.txt]( https://raw.github.com/Esri/workflowmanager-viewer-js/master/license.txt) file.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fworkflowmanager-viewer-js_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fworkflowmanager-viewer-js_test?ref=badge_large)
